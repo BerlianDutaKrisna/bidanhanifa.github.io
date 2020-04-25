@@ -1,0 +1,18 @@
+.img1 {
+    background-image: url("../img/bayipertama.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img2 {
+    background-image: url("../img/bayikedua.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img3 {
+    background-image: url("../img/bayiketiga.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
