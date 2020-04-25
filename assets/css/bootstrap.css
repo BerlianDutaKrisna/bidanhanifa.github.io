@@ -3234,7 +3234,7 @@ input[type="button"].btn-block {
   color: #fff;
   text-align: left;
   list-style: none;
-  background-color: pink;
+  background-color:rgba(247, 117, 186, 0.9);
   background-clip: padding-box;
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: black;
